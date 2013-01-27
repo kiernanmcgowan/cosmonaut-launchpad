@@ -1,0 +1,13 @@
+{
+  "name": "cosmonaut-launchpad",
+  "version": "0.0.1",
+  "description": "browser based game engine build on threejs",
+  "author": "dropdownmenu",
+  "license": "MIT",
+  "dependencies": {
+    "browserify": "1.17.x"
+  },
+  "devDependencies": {
+
+  }
+}
