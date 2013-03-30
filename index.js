@@ -1,2 +1,2 @@
 // index.js
-module.exports = require('./lib/launchpad');
+module.exports = require('./src/launchpad');

@@ -4,3 +4,5 @@ node_modules/*
 *.sublime-project
 
 *.log
+
+*.DS_Store
