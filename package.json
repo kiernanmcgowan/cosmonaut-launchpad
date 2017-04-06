@@ -5,10 +5,10 @@
   "author": "dropdownmenu",
   "license": "MIT",
   "dependencies": {
-    "browserify": "1.17.x",
-    "express": "3.1.x",
-    "jade": "0.28.x",
-    "stylus": "0.32.x",
+    "browserify": "~14.3.0",
+    "express": "~4.15.2",
+    "jade": "~1.11.0",
+    "stylus": "~0.54.5",
     "cosmonaut-lifesupport": "*"
   },
   "devDependencies": {
